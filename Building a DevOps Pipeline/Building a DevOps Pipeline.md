@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-1.sh
+curl -LO raw.githubusercontent.com/sergio-limon/2-Minutes-Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-1.sh
 
 sudo chmod +x shell-1.sh
 
